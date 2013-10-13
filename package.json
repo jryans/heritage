@@ -1,0 +1,36 @@
+{
+  "name": "heritage",
+  "description": "Inheritance helpers from Mozilla's Add-on SDK",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jryans/heritage",
+  "contributors": [
+    "Irakli Gozalishvili <rfobic@gmail.com>",
+    "Erik Vold <evold@mozilla.com>",
+    "Jordan Santell <jsantell@gmail.com>",
+    "ZER0 <zer0.kaos@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jryans/heritage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jryans/heritage/issues"
+  },
+  "licenses": [
+    {
+      "type": "MPL 2.0",
+      "url": "http://www.mozilla.org/MPL/2.0/"
+    }
+  ],
+  "main": "lib/main",
+  "engines": {
+    "node": "0.10"
+  },
+  "keywords": [
+    "heritage",
+    "inheritance",
+    "mozilla",
+    "addon",
+    "sdk"
+  ]
+}
