@@ -3,8 +3,8 @@
   "description": "Inheritance helpers from Mozilla's Add-on SDK",
   "version": "0.0.0",
   "homepage": "https://github.com/jryans/heritage",
+  "author": "Irakli Gozalishvili <rfobic@gmail.com>",
   "contributors": [
-    "Irakli Gozalishvili <rfobic@gmail.com>",
     "Erik Vold <evold@mozilla.com>",
     "Jordan Santell <jsantell@gmail.com>",
     "ZER0 <zer0.kaos@gmail.com>"
