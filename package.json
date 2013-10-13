@@ -22,7 +22,7 @@
       "url": "http://www.mozilla.org/MPL/2.0/"
     }
   ],
-  "main": "lib/main",
+  "main": "main",
   "engines": {
     "node": "0.10"
   },
